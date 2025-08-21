@@ -1,5 +1,5 @@
 # Overview (2025-08-21 : 09:50)
-# Note()
+# Note(Overview ini tidak diringkas dengan bahasa intelektual tetapi berdasarkan data an pengalaman)
 
 ## 1. Ringkasan Teknis
 
